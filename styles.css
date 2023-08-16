@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'consolas';
+    color: aliceblue;
+}
+body {
+    background-color: midnightblue;
+    color: aliceblue;
+    height: 95vh;
+    width: 100%;
+}
+header h1 {
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+    color:rgb(221, 20, 188);
+    margin-left:40%;
+}
+.navbar{
+    background-color: rgb(33, 33, 149);
+    
+}
